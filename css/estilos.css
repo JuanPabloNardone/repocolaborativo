@@ -1,8 +1,9 @@
 h1{
     color: red;
     background-color: lightgreen;
+    border: 1px solid red;
 }
 h2{
-    background-color: blueviolet;
+    background-color: blue;
     color: white;
 }
